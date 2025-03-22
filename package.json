@@ -1,6 +1,13 @@
 {
-    "private": true,
-    "dependencies": {
-        "@stdlib/stdlib": "^0.3.2"
-    }
+  "name": "robotwheel",
+  "version": "1.0.0",
+  "description": "Robotic Wheel Configurations.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ShabiShett07/robotwheel"
+  },
+  "dependencies": {
+      "@stdlib/stdlib": "^0.3.2"
+  }
 }
