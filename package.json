@@ -8,6 +8,17 @@
     "url": "git://github.com/ShabiShett07/robotwheel"
   },
   "main": "./lib",
+  "directories": {
+    "lib": "./lib",
+    "examples": "./examples"
+  },
+  "keywords": ["robot",
+    "kinematics",
+    "wheeled robot",
+    "stdlib"
+  ],
+  "author": "Shabareesh Shetty",
+  "license": "MIT",
   "dependencies": {
       "@stdlib/stdlib": "^0.3.2"
   }
