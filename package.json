@@ -3,22 +3,19 @@
   "version": "1.0.0",
   "description": "Robotic Wheel Configurations.",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/ShabiShett07/robotwheel"
-  },
   "main": "./lib",
   "directories": {
+    "doc": "./docs",
     "lib": "./lib",
     "examples": "./examples"
   },
+  "types": "./docs/types",
   "keywords": [
     "robot",
     "kinematics",
     "wheeled robot",
     "stdlib"
   ],
-
   "dependencies": {
       "@stdlib/stdlib": "^0.3.2"
   }
